@@ -1,1 +1,15 @@
-# lab02
+# Homework 02
+##Part I
+---
+1. здайте пустой репозиторий на сервисе github.com (или gitlab.com, или bitbucket.com).
+2. Выполните инструкцию по созданию первого коммита на странице репозитория, созданного на предыдущем шаге.
+'''
+% mkdir hw02
+% cd hw02
+% echo "# Homework 02" >> README.md
+% git init
+% git commit -m "first commit"
+% git push origin master
+'''
+
+
